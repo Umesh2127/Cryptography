@@ -5,7 +5,7 @@ Roll No: 20
 
 import java.util.Scanner;
 
-class DH{
+class DiffieHellman{
 	public static void print(Object o){
 		System.out.print(o);
 	}
