@@ -50,9 +50,9 @@ class DiffieHellman{
 }
 /*
 OUTPUT
-F:\ACADMIC EDUCATION\BE SEM - 2\CNS>javac DH.java
+F:\ACADMIC EDUCATION\BE SEM - 2\CNS>javac DiffieHellman.java
 
-F:\ACADMIC EDUCATION\BE SEM - 2\CNS>java DH
+F:\ACADMIC EDUCATION\BE SEM - 2\CNS>java DDiffieHellman
 Enter a: 3
 Enter q: 353
 Enter XA (private key of A) : 97
